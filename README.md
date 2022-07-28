@@ -12,4 +12,4 @@ Tecnologias usadas nesse projeto:
 - Firebase
 
 
-Aplicativo feito para abertura de solicitação de manutenção para o suporte de ti ( para empresas).
+Aplicativo feito para abertura de solicitação de manutenção para o suporte de ti (para empresas).
